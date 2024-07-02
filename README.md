@@ -1,13 +1,13 @@
-#William Galvin
+# William Galvin
 🛠️ Full-stack developer
 🗓️ Coding since 2017 (6+ years)
 
 Student at Sheridan College for Honours Bachelor of Computer Science.
 
-##🎨 Portfolio
+## 🎨 Portfolio
 Coming soon...
 
-##📚 Technologies
+## 📚 Technologies
 **Web techstack (2 years)**
 - React, NextJS
 - Typescript, Javascript
@@ -19,7 +19,7 @@ Coming soon...
 - Python (2 years)
 
 
-##☎️ Contact
+## ☎️ Contact
 ```
 Email: liam.galvin@bell.net
 ```
