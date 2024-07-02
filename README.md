@@ -1,16 +1,25 @@
-## Hi there 👋
+#William Galvin
+🛠️ Full-stack developer
+🗓️ Coding since 2017 (6+ years)
 
-<!--
-**WilliammGalvin/WilliammGalvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at Sheridan College for Honours Bachelor of Computer Science.
 
-Here are some ideas to get you started:
+##🎨 Portfolio
+Coming soon...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##📚 Technologies
+**Web techstack (2 years)**
+- React, NextJS
+- Typescript, Javascript
+- TailwindCSS
+
+**Other languages**
+- Java (5 years)
+- C# (2 years)
+- Python (2 years)
+
+
+##☎️ Contact
+```
+Email: liam.galvin@bell.net
+```
