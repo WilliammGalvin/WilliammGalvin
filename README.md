@@ -3,9 +3,7 @@
 
 🗓️ Coding since 2017 (6+ years)
 
-
-
-Student at Sheridan College for Honours Bachelor of Computer Science.
+🎓 Student at Sheridan College for Honours Bachelor of Computer Science.
 
 ## 🎨 Portfolio
 Coming soon...
