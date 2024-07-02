@@ -1,5 +1,6 @@
 # William Galvin
 🛠️ Full-stack developer
+
 🗓️ Coding since 2017 (6+ years)
 
 Student at Sheridan College for Honours Bachelor of Computer Science.
