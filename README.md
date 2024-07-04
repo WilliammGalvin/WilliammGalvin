@@ -18,6 +18,7 @@ Coming soon...
 - Java (5 years)
 - C# (2 years)
 - Python (2 years)
+- C (1 year)
 
 
 ## ☎️ Contact
