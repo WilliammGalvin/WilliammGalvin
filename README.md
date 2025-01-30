@@ -1,5 +1,5 @@
 # William Galvin
-🛠️ Full-stack developer
+🛠️ Software developer
 
 🗓️ Coding since 2017 (6+ years)
 
@@ -17,7 +17,8 @@ https://williamgalvin.me/
 **Other languages**
 - Java (5 years)
 - C# (2 years)
-- Python (2 years)
+- C++ (1 year)
+- Python (1 year)
 - C (1 year)
 
 
