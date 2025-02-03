@@ -9,17 +9,14 @@
 https://williamgalvin.me/
 
 ## 📚 Technologies
-**Web techstack (2 years)**
+**Web techstack**
 - React, NextJS
 - Typescript, Javascript
 - TailwindCSS
 
 **Other languages**
-- Java (5 years)
-- C# (2 years)
-- C++ (1 year)
-- Python (1 year)
-- C (1 year)
+- Java
+- C++
 
 
 ## ☎️ Contact
